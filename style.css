@@ -1,0 +1,229 @@
+
+body {
+	background-color: #1A202C;
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" ;
+	margin: 0px;
+}
+#list {
+	padding: 20px;
+}
+
+.portfolio {
+	color: #0bc5ea;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-left: 2rem;
+}
+
+.css-button-2-1 {
+	justify-content: center;
+	align-items: center;
+	display: inline-flex;
+	font-size: 1rem;
+	width:2.5rem;
+	height: 2.5rem;
+	border-radius: 9999px;
+	background: ;
+	filter: invert(1);
+	background: #00000014;
+	border: none;
+	margin-right: 0%;
+	float: right; 
+	margin-left: 0.5rem;
+	margin-right: 0rem; 
+}
+.css-button-2-1:hover {
+	background-color: #A9A9A9;
+	transition: all .2s ease-in-out;
+}
+
+a {
+	text-decoration: none;
+}
+p {
+	margin: 1.5px;
+}
+h2 {
+	margin: 0px;
+}
+
+
+
+
+/*заголовок*/
+
+.css-1-1 {
+	padding: 8rem;
+	display: flex;
+	flex-direction: row;
+}
+.css-1-2 {
+    margin-top: 2px;
+	
+}
+.css-hi {
+	font-size: 3rem;
+	color: #ffffffeb;
+	font-weight: 600;
+	font-family: ;
+}
+.css-title {
+    font-size: 4.5rem;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, #0bc5ea, #3182ce, #6b46c1);
+    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    font-family: ;   
+}
+.css-subtitle {
+	color: #E2E8F0;
+}
+.css-memoji {
+	border-radius: 9999px;
+	width: 300px;
+    height: 300px;
+    background-color: #ffffff14;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    margin-left: 4rem;
+}
+.css-a-button-1-1 {
+	text-decoration: none;
+	color: #1A202C;
+	font-weight: 600;
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
+}
+.css-button-1-1 {
+	margin-top: 2rem;
+	height: 2.5rem;
+	padding-inline-start: 1rem;
+    padding-inline-end: 1rem;
+    border-radius: 10px;
+    background: #90cdf4;
+	font-size: 100%;
+
+}
+.css-button-1-1:hover {
+	background: #63b3ed;
+}
+.css-2-1 {
+	flex-direction: row;
+	text-align: center;
+	margin-top: 0.5rem;
+
+}
+.css-social {
+	width: 50px;
+	height: 50px;
+	margin-inline-start: 6rem;
+	align: center;
+	filter: invert(1);
+}
+.css-social1 {
+	width: 50px;
+	height: 50px;
+	margin-inline-start: rem;
+	align: center;
+	filter: invert(1);
+}
+.css-3-1{
+	align-self: center;
+   padding-inline-start: 8rem;
+   padding-inline-end: 8rem;
+   padding-top: 4rem;
+   padding-bottom: 4rem;
+}
+.css-3-experience {
+	font-size: 4.5rem;
+	font-weight:800;
+	color: #00b5d8;
+}
+.css-3-1-experience {
+	font-size: 1.5rem;
+	color: #a0aec0;
+}
+ ::-webkit-scrollbar {
+    width: 15px; /* ширина нового скроллбара */
+}  
+ ::-webkit-scrollbar-track {
+    background: #383838; /* цвет фона у дорожки */  
+}
+ ::-webkit-scrollbar-thumb {
+    background: #585858; /* цвет фона у дорожки */
+    border-radius: 9999px; /* скругление углов */
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #808080; /* ползунок меняет цвет при наведении */
+}
+.css-3 {
+	display: flex;
+   flex-direction: row;
+}
+.css-4-1  {
+		align-self: center;
+   padding-inline-start: 8rem;
+   padding-inline-end: 8rem;
+   padding-top: 4rem;
+   padding-bottom: 4rem;
+	display: flex;
+   flex-direction: row;   
+}
+.css-4-2-1 {
+	height: 30vh;
+	width: 30vh;
+	background: #edf2f7;
+	border-radius: 5%;
+	margin-top: 1rem;
+	margin-left: 1rem;
+	display: flex;
+	flex-direction: column;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+}
+.css-4-2-1:hover{
+	background:  #EE204D;
+}
+.css-4-icon {
+	height: 6rem;
+	width: 6rem;
+	padding: 1rem;
+
+}
+.css-4-3 {
+	padding: 1rem;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";;
+	font-size: 1.25rem;
+	font-weight: 600;
+}
+.css-4-2-2 {
+	height: 30vh;
+	width: 30vh;
+	background: #edf2f7;
+	border-radius: 5%;
+	margin-top: 1rem;
+	margin-left: 1rem;
+	display: flex;
+	flex-direction: column;
+   -webkit-box-pack: end;
+   justify-content: flex-end;
+}
+.css-4-2-2:hover{
+	background:  #44944A;
+}
+.css-4-2-3 {
+	height: 30vh;
+	width: 30vh;
+	background: #edf2f7;
+	border-radius: 5%;
+	margin-top: 1rem;
+	margin-left: 1rem;
+	display: flex;
+	flex-direction: column;
+   -webkit-box-pack: end;
+   justify-content: flex-end;
+}
+.css-4-2-3:hover{
+	background:  #42AAFF;
+}
