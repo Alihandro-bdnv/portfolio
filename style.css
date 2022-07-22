@@ -227,3 +227,17 @@ h2 {
 .css-4-2-3:hover{
 	background:  #42AAFF;
 }
+
+
+@media screen and (max-width: 1200px) {
+
+}
+@media screen and (max-width: 998px) {
+
+}
+@media screen and (max-width: 764px) {
+
+}
+@media screen and (max-width: 576px) {
+
+}
