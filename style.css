@@ -236,7 +236,115 @@ h2 {
 
 }
 @media screen and (max-width: 764px) {
+	.css-1-1 {
+	padding: 0rem;
+	margin: 0rem;
+}
+	.css-hi {
+	font-size: 2rem;
+	font-weight: 600;
+}
+	.css-title {
+    font-size: 2.5rem;
+    font-weight: 700;   
+}
+	.css-subtitle {
+	font-size: 0.8rem;
+}
+	.css-button-1-1 {
+	margin-top: 2rem;
+	height: 2rem;
+	font-size: 0.5rem;
+}
+	.css-a-button-1-1 {
+	font-weight: 600;
+	font-size: 0.8rem;
+}
+	.css-memoji {
+	width: 145px;
+    height: 140px;
+    margin-left: 0rem;
+    margin-top: 4rem;
+    float: ;
+    margin-right: 0rem;
+}
+	.css-social {
+	width: 30px;
+	height: 30px;
+	margin-inline-start: 2rem;
+}
+	.css-social1 {
+	width: 30px;
+	height: 30px;
+	margin-inline-start: 0rem;
+}
+	.css-2-1 {
+	margin-top: 4rem;
+}
+	#list {
 
+	padding: 15px;
+}
+	.portfolio {
+    font-weight: 600;
+    font-size: 0.8rem;
+    line-height: ;
+    margin-left: 0.8rem;
+}
+.css-button-2-1 {
+	font-size: 0.8rem;
+	width:1.5rem;
+	height: 1.5rem;
+	margin-right: 0%;
+	float: right; 
+	margin-left: 0.5rem;
+	margin-right: 0rem; 
+}
+	.css-3-1{
+   padding-inline-start: 2rem;
+   padding-inline-end: 0rem;
+   padding-top: 4rem;
+   padding-bottom: 2rem;
+} 
+	.css-4-1 {
+    padding-inline-start: 0rem;
+    padding-inline-end: 0rem;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+   
+}
+.css-4-2-1 {
+    height: 20vh;
+    width: 20vh;
+}
+.css-4-2-3 {
+    height: 20vh;
+    width: 20vh;
+}
+.css-4-2-2 {
+    height: 20vh;
+    width: 20vh;
+}
+.css-3-experience {
+	font-size: 2rem;
+	font-weight:800;
+}
+.css-3-1-experience {
+	font-size: 1rem;
+	color: #a0aec0;
+}
+.css-4-icon {
+    height: 6rem;
+    width: 6rem;
+    padding: 0rem;
+}
+.css-3 {
+	display: flex;
+   flex-direction:;
+}
+html {
+	width: 100%;
+}
 }
 @media screen and (max-width: 576px) {
 
